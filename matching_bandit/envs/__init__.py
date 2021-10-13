@@ -1,0 +1,3 @@
+from matching_bandit.envs.monopartite_pair_bandit import MonopartitePairBanditEnv
+from matching_bandit.envs.bipartite_pair_bandit import BipartitePairBanditEnv
+from matching_bandit.envs.matching_selection_bandit import MatchingSelectionBanditEnv
